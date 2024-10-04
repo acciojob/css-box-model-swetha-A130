@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+#boxModel {
+    width: 300px; /* Set the width of the box */
+    background-color: lightblue; /* Set the background color */
+    border: 15px solid blue; /* Set the border */
+    padding: 50px; /* Set the padding */
+    margin: 20px; /* Set the margin */
+}
